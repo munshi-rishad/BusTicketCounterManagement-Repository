@@ -24,3 +24,8 @@ This project is a complete bus ticket booking and management system. It allows f
 - Documentation (Word file)
 
 Feel free to explore and reach out if you have any questions!
+## How to Use
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/munshi-rishad/BusTicketCounterManagement-Repository.git
